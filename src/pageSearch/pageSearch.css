@@ -1,0 +1,21 @@
+.boxInfo {
+    margin-bottom: 20px;
+}
+
+.clearInfo {
+    float: right;
+}
+
+#app .is-invalid .mdl-textfield__error {
+    visibility: visible;
+}
+
+#app .is-invalid .mdl-textfield__input {
+    border-color: #d50000;
+    box-shadow: none;
+}
+
+#app .is-invalid .mdl-textfield__label {
+    color: #d50000;
+    font-size: 12px;
+}

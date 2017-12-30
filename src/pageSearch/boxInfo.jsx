@@ -2,7 +2,7 @@ import React from 'react'
 
 
 export default props => (
-    <section>
+    <section  className="boxInfo">
         <div>
             <span>
                 <b>CEP: </b> {props.infoCEP}
